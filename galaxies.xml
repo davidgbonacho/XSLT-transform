@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<galaxies>
+    <galaxy>
+        <name>Milky Way</name>
+        <type>Spiral</type>
+        <distance unit="light years">0</distance>
+        <constellation>Sagittarius</constellation>
+        <description>Our home galaxy containing the Solar System.</description>
+    </galaxy>
+
+    <galaxy>
+        <name>Andromeda</name>
+        <type>Spiral</type>
+        <distance unit="light years">2537000</distance>
+        <constellation>Andromeda</constellation>
+        <description>The nearest major galaxy to the Milky Way.</description>
+    </galaxy>
+
+    <galaxy>
+        <name>Triangulum</name>
+        <type>Spiral</type>
+        <distance unit="light years">3000000</distance>
+        <constellation>Triangulum</constellation>
+        <description>The third-largest member of the Local Group.</description>
+    </galaxy>
+
+    <galaxy>
+        <name>Messier 87</name>
+        <type>Elliptical</type>
+        <distance unit="light years">53000000</distance>
+        <constellation>Virgo</constellation>
+        <description>A supergiant elliptical galaxy with a massive black hole.</description>
+    </galaxy>
+
+    <galaxy>
+        <name>Whirlpool Galaxy</name>
+        <type>Spiral</type>
+        <distance unit="light years">23000000</distance>
+        <constellation>Canes Venatici</constellation>
+        <description>Famous for its well-defined spiral arms.</description>
+    </galaxy>
+</galaxies>
