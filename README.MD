@@ -22,7 +22,7 @@ This will generate the file **transform.html**
 - galaxies.xsl XSLT file to test the transformation.
 
 ## Executable
-Optionally, the Python file can be converted into a .exe executable (using **PyInstaller** (already installed via `pip install pyinstaller`; check if installed with _pip show pyinstaller_)).
+Optionally, the Python file can be converted into a .exe executable (using **PyInstaller** (Install it with `pip install pyinstaller`; check if installed with `pip show pyinstaller`)).
 
 If _PyInstaller_ is not in the session Path variables, it must be invoked like this to convert the script to .exe:
 
